@@ -27,11 +27,7 @@ const API_SITES = {
         name: '超清',
         detail: 'http://caiji.dyttzyapi.com', 
     },
-        wwzy: {
-        api: 'https://wwzy.tv/api.php/provide/vod',
-        name: '短剧'
-    },
-        dbzy: {
+    dbzy: {
         api: 'https://dbzy.tv/api.php/provide/vod',
         name: '高清',
     },
@@ -109,6 +105,10 @@ const API_SITES = {
     ikun: {
         api: 'https://ikunzyapi.com/api.php/provide/vod',
         name: 'iKun资源'
+    },
+    wwzy: {
+        api: 'https://wwzy.tv/api.php/provide/vod',
+        name: '短剧'
     },
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
