@@ -24,7 +24,7 @@ const SITE_CONFIG = {
 const API_SITES = {
     dyttzy: {
         api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
-        name: '蓝光',
+        name: '超清',
         detail: 'http://caiji.dyttzyapi.com', 
     },
         dbzy: {
