@@ -27,6 +27,10 @@ const API_SITES = {
         name: '蓝光',
         detail: 'http://caiji.dyttzyapi.com', 
     },
+        dbzy: {
+        api: 'https://dbzy.tv/api.php/provide/vod',
+        name: '高清',
+    },
     ruyi: {
         api: 'https://cj.rycjapi.com/api.php/provide/vod',
         name: '如意资源',
@@ -73,10 +77,6 @@ const API_SITES = {
         api: 'https://jszyapi.com/api.php/provide/vod',
         name: '极速资源',
         detail: 'https://jszyapi.com', 
-    },
-    dbzy: {
-        api: 'https://dbzy.tv/api.php/provide/vod',
-        name: '高清',
     },
     mozhua: {
         api: 'https://mozhuazy.com/api.php/provide/vod',
