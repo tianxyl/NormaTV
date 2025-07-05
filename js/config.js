@@ -28,7 +28,7 @@ const API_SITES = {
         detail: 'http://caiji.dyttzyapi.com', 
     },
     dbzy: {
-        api: 'https://api.yzzy-api.com/inc/api_mac10.php',
+        api: 'https://caiji.dbzy5.com/api.php/provide/vod/from/dbm3u8/at/josn',
         name: '高清',
     },
     ruyi: {
