@@ -28,7 +28,7 @@ const API_SITES = {
         detail: 'http://caiji.dyttzyapi.com', 
     },
     dbzy: {
-        api: 'https://caiji.dbzy5.com/api.php/provide/vod/from/dbm3u8/at/josn',
+        api: 'https://vs.xiaomianyang.top/api.php/provide/vod',
         name: '高清',
     },
     ruyi: {
