@@ -24,7 +24,7 @@ const SITE_CONFIG = {
 const API_SITES = {
     dyttzy: {
         api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
-        name: '电影天堂资源',
+        name: '蓝光',
         detail: 'http://caiji.dyttzyapi.com', 
     },
     ruyi: {
@@ -76,7 +76,7 @@ const API_SITES = {
     },
     dbzy: {
         api: 'https://dbzy.tv/api.php/provide/vod',
-        name: '豆瓣资源',
+        name: '高清',
     },
     mozhua: {
         api: 'https://mozhuazy.com/api.php/provide/vod',
